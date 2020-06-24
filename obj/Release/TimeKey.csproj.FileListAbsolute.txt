@@ -6,3 +6,4 @@ C:\Users\jpoit\Documents\Visual Studio Projects\TimeKey\TimeKey\obj\Release\Time
 C:\Users\jpoit\Documents\Visual Studio Projects\TimeKey\TimeKey\obj\Release\TimeKey.csproj.GenerateResource.cache
 C:\Users\jpoit\Documents\Visual Studio Projects\TimeKey\TimeKey\obj\Release\TimeKey.exe
 C:\Users\jpoit\Documents\Visual Studio Projects\TimeKey\TimeKey\obj\Release\TimeKey.pdb
+C:\Users\jpoit\Documents\Visual Studio Projects\TimeKey\TimeKey\obj\Release\TimeKey.csprojAssemblyReference.cache

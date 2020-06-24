@@ -33,7 +33,6 @@ namespace TimeKey
             label2.ForeColor = Color.Green;
             timer1.Interval = timerLength;
             timer1.Enabled = true;
-            
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -52,8 +51,6 @@ namespace TimeKey
         {
             btn_stop_Click(sender, e);
             timerLength = Convert.ToInt32(comboBox1.SelectedItem) * 60000;
-            
-            
         }
     }
 }
