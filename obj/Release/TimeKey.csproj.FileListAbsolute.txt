@@ -1,0 +1,8 @@
+C:\Users\jpoit\Documents\Visual Studio Projects\TimeKey\TimeKey\bin\Release\TimeKey.exe.config
+C:\Users\jpoit\Documents\Visual Studio Projects\TimeKey\TimeKey\bin\Release\TimeKey.exe
+C:\Users\jpoit\Documents\Visual Studio Projects\TimeKey\TimeKey\bin\Release\TimeKey.pdb
+C:\Users\jpoit\Documents\Visual Studio Projects\TimeKey\TimeKey\obj\Release\TimeKey.Form1.resources
+C:\Users\jpoit\Documents\Visual Studio Projects\TimeKey\TimeKey\obj\Release\TimeKey.Properties.Resources.resources
+C:\Users\jpoit\Documents\Visual Studio Projects\TimeKey\TimeKey\obj\Release\TimeKey.csproj.GenerateResource.cache
+C:\Users\jpoit\Documents\Visual Studio Projects\TimeKey\TimeKey\obj\Release\TimeKey.exe
+C:\Users\jpoit\Documents\Visual Studio Projects\TimeKey\TimeKey\obj\Release\TimeKey.pdb
